@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=✨Welcome✨&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=FDA881&height=250&section=header&text=✨Welcome✨&fontSize=60&font-color=black" />
 
 <h3 align="center"><b>📚 Education 📚</b></h3>
 Graduated from DKU, Department of Mathematics<br>
