@@ -1,4 +1,5 @@
 <div align="center">
+<h1>Hi! I'm a beginner developer. Good luck✨</h1>
 <h3 align="center"><b>📚 Education 📚</b></h3>
 Graduated from DKU, Department of Mathematics<br>
 Completion of NIA's introductory courses AI (voice/text, image/video) class in 2022<br>
