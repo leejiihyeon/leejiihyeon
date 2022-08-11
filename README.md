@@ -3,7 +3,7 @@
 <h3 align="center"><b>📚 Education 📚</b></h3>
 Graduated from DKU, Department of Mathematics<br>
 Completion of NIA's introductory courses AI (voice/text, image/video) class in 2022<br>
-Completion of NIA's Basic courses AI (image/video) class in 2022
+Completion of NIA's Basic courses AI (image/video) class in 2022<br>
 Learning NIA's Basic courses in AI(text, voice) course in 2022<br>
 Learning ZeroBase's backend course in 2022<br>
 Learning EliceCoding's SW/AI course in 2022<br>
